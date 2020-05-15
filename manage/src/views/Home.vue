@@ -77,7 +77,7 @@
           </el-main>
 
           <el-footer class="footer">
-            Copyright © kangliuyong All Rights Reserved 备案/许可证编号为：粤ICP备19024022号
+            Copyright © xiaohua All Rights Reserved 备案/许可证编号为：粤ICP备45456782号
           </el-footer>
         </el-container>
       </el-container>
